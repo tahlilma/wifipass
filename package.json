@@ -1,5 +1,5 @@
 {
-  "name": "wifipass",
+  "name": "@tahlil_ma/wifipass",
   "version": "1.0.0",
   "description": "Show the wifi password in the command prompt as a scannable QR code.",
   "main": "index.js",
